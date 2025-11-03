@@ -1,2 +1,2 @@
 # Hello
-My first repository on GitHub
+Assignment repository on GitHub
